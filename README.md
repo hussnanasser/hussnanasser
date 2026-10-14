@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Add your generated banner to the repo at assets/pink-banner.png -->
-<img src="./assets/pink-banner.png" width="100%" alt="Pink cyber coquette banner" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:16051f,50:7a125c,100:ff4fa3&height=110&section=header&text=hussnanasser%20%E2%99%A1&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hussna's pink header" />
 
@@ -56,13 +56,15 @@
 
 ### 🌸 my GitHub stats
 
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hussnanasser&show_icons=true&hide_border=true&bg_color=0d0612&title_color=ff79c6&icon_color=ff4fa3&text_color=fce7f3" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hussnanasser&show_icons=true&theme=radical" width="48%" alt="GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussnanasser&layout=compact&hide_border=true&bg_color=0d0612&title_color=ff79c6&text_color=fce7f3" alt="Most-used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussnanasser&layout=compact&theme=radical" width="48%" alt="Top languages" />
 
 </div>
+
 
 ---
 
