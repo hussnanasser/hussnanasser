@@ -10,10 +10,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=25&duration=3000&pause=800&color=FF69C9&center=true&vCenter=true&width=650&lines=%E2%99%A5+Hi%2C+I'm+Hussna!+%E2%99%A5;%E2%99%A1+welcome+to+my+github+profile+%E2%99%A1" alt="Typing introduction"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Msci Computer Science (Artificial Intelligence)-ff69c9?style=flat-square&labelColor=171019"/>
-  <img src="https://img.shields.io/badge/Bournemouth University-ff69c9?style=flat-square&labelColor=171019"/>
+  <img src="https://img.shields.io/badge/MsciComputerScience-ff69c9?style=flat-square&labelColor=171019"/>
+   <img src="https://img.shields.io/badge/ArtificalIntelligence-ff69c9?style=flat-square&labelColor=171019"/>
+  <img src="https://img.shields.io/badge/BournemouthUniversity-ff69c9?style=flat-square&labelColor=171019"/>
   <img src="https://img.shields.io/badge/2nd Year-ff69c9?style=flat-square&labelColor=171019"/>
   <img src="https://img.shields.io/badge/student-ff69c9?style=flat-square&labelColor=171019"/>
+  <a href="https://www.linkedin.com/in/HUSSNANASSER/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p><i>♡ turning ideas into something cute . . . ♡</i></p>
