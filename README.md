@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=25&duration=3000&pause=800&color=FF69C9&center=true&vCenter=true&width=650&lines=%E2%99%A5+Hi%2C+I'm+Hussna!+%E2%99%A5;coding+%E2%80%A2+creating+%E2%80%A2+dreaming;welcome+to+my+pink+universe+%E2%99%A1" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=25&duration=3000&pause=800&color=FF69C9&center=true&vCenter=true&width=650&lines=%E2%99%A5+Hi%2C+I'm+Hussna!+%E2%99%A5;coding+%E2%80%A2+creating+%E2%80%A2+dreaming;welcome+to+my+github+profile+%E2%99%A1" alt="Typing introduction"/>
 
 <p>
   <img src="https://img.shields.io/badge/she%2Fher-ff69c9?style=flat-square&labelColor=171019"/>
