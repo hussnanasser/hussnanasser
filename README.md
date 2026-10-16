@@ -24,11 +24,9 @@
 ## 💗 About Me
 
 ```text
-> I’m in my second year at Bournemouth University, currently looking for a placement for 2027, particularly in AI, Machine Learning, Data Science or Data Engineering, and I’d love to connect with others in these fields and learn more about the industry
-> a girl who creates new worlds
-> building my dream life
-> currently learning and growing
-> forever in my pink era ♡
+I’m in my second year at Bournemouth University, currently looking for a placement for 2027,
+particularly in AI, Machine Learning, Data Science or Data Engineering,
+and I’d love to connect with others in these fields and learn more about the industry ♡
 ```
 
 - 🌸 Developer and student
