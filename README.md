@@ -15,9 +15,10 @@
   <img src="https://img.shields.io/badge/BournemouthUniversity-ff69c9?style=flat-square&labelColor=171019"/>
   <img src="https://img.shields.io/badge/2nd Year-ff69c9?style=flat-square&labelColor=171019"/>
   <img src="https://img.shields.io/badge/student-ff69c9?style=flat-square&labelColor=171019"/>
-  <a href="https://https://www.linkedin.com/in/hussnanasser-cs//">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/hussnanasser-cs/">
+  <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
+</a>
+
 </p>
 
 <p><i>♡ turning ideas into something cute . . . ♡</i></p>
