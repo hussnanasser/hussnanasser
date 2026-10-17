@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=25&duration=3000&pause=800&color=FF69C9&center=true&vCenter=true&width=650&lines=%E2%99%A5+Hi%2C+I'm+Hussna!+%E2%99%A5;%E2%99%A1+welcome+to+my+github+profile+%E2%99%A1" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=25&duration=3000&pause=800&color=FF69C9&center=true&vCenter=true&width=650&lines=%E2%99%A5+Hi%2C+I'm+Hussna!+%E2%99%A5;%E2%99%A1+Welcome+to+my+Github+Profile+%E2%99%A1" alt="Typing introduction"/>
 
 <p>
   <img src="https://img.shields.io/badge/MsciComputerScience-ff69c9?style=flat-square&labelColor=171019"/>
