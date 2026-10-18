@@ -47,43 +47,53 @@ Data Engineering. I’d love to connect with others in these fields
 
 <p align="center">
   <a href="https://www.python.org/" title="Python">
-    <img src="https://cdn.simpleicons.org/python/FF69B4" width="50" alt="Python"/>
+    <img src="https://cdn.simpleicons.org/python/FF69B4" width="40" alt="Python"/><br/>
+    Python
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://react.dev/" title="React">
-    <img src="https://cdn.simpleicons.org/react/FF69B4" width="50" alt="React"/>
+    <img src="https://cdn.simpleicons.org/react/FF69B4" width="40" alt="React"/><br/>
+    React
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="50" alt="Node.js"/>
+    <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="40" alt="Node.js"/><br/>
+    Node.js
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" title="Pandas">
-    <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="50" alt="Pandas"/>
+    <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="40" alt="Pandas"/><br/>
+    Pandas
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://numpy.org/" title="NumPy">
-    <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="50" alt="NumPy"/>
+    <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="40" alt="NumPy"/><br/>
+    NumPy
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" title="Git">
-    <img src="https://cdn.simpleicons.org/git/FF69B4" width="50" alt="Git"/>
+    <img src="https://cdn.simpleicons.org/git/FF69B4" width="40" alt="Git"/><br/>
+    Git
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FF69B4" width="50" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/FF69B4" width="40" alt="GitHub"/><br/>
+    GitHub
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.figma.com/" title="Figma">
-    <img src="https://cdn.simpleicons.org/figma/FF69B4" width="50" alt="Figma"/>
+    <img src="https://cdn.simpleicons.org/figma/FF69B4" width="40" alt="Figma"/><br/>
+    Figma
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="50" alt="Visual Studio Code"/>
+    <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="40" alt="VS Code"/><br/>
+    VS Code
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="50" alt="MySQL"/>
+    <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="40" alt="MySQL"/><br/>
+    MySQL
   </a>
 </p>
 
