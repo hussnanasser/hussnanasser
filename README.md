@@ -46,53 +46,53 @@ Data Engineering. I’d love to connect with others in these fields
 ## 🎀 Technologies I use
 
 <p align="center">
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://cdn.simpleicons.org/python/FF69B4" width="40" alt="Python"/><br/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/python/FF69B4" width="40" height="40" alt="Python"/><br/>
     Python
   </a>
-  &nbsp;&nbsp;
-  <a href="https://react.dev/" title="React">
-    <img src="https://cdn.simpleicons.org/react/FF69B4" width="40" alt="React"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/FF69B4" width="40" height="40" alt="React"/><br/>
     React
   </a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="40" alt="Node.js"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="40" height="40" alt="Node.js"/><br/>
     Node.js
   </a>
-  &nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" title="Pandas">
-    <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="40" alt="Pandas"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="40" height="40" alt="Pandas"/><br/>
     Pandas
   </a>
-  &nbsp;&nbsp;
-  <a href="https://numpy.org/" title="NumPy">
-    <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="40" alt="NumPy"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="40" height="40" alt="NumPy"/><br/>
     NumPy
   </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://cdn.simpleicons.org/git/FF69B4" width="40" alt="Git"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/FF69B4" width="40" height="40" alt="Git"/><br/>
     Git
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FF69B4" width="40" alt="GitHub"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FF69B4" width="40" height="40" alt="GitHub"/><br/>
     GitHub
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.figma.com/" title="Figma">
-    <img src="https://cdn.simpleicons.org/figma/FF69B4" width="40" alt="Figma"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/figma/FF69B4" width="40" height="40" alt="Figma"/><br/>
     Figma
   </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="40" alt="VS Code"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="40" height="40" alt="VS Code"/><br/>
     VS Code
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="40" alt="MySQL"/><br/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="40" height="40" alt="MySQL"/><br/>
     MySQL
   </a>
 </p>
