@@ -43,10 +43,10 @@ fields and learn more about the industry ♡
 
 ---
 
-## 🎀 Technologies I Love
+## 🎀 Technologies I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nextjs,git,github,figma,vscode,mongodb,mysql,linux,postman&theme=dark" alt="Technology icons"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,git,github,figma,vscode,mysql,postman&theme=dark" alt="Technology icons"/>
 </p>
 
 ---
