@@ -45,10 +45,29 @@ fields and learn more about the industry ♡
 
 ## 🎀 Technologies I use
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,pandas, numbpy, git,github,figma,vscode,sql &theme=pink" alt="Technology icons"/>
-</p>
+## 🎀 Technologies I use
 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/FF69B4" width="50" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/react/FF69B4" width="50" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="50" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="50" alt="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="50" alt="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/FF69B4" width="50" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/FF69B4" width="50" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/figma/FF69B4" width="50" alt="Figma"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="50" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="50" alt="MySQL"/>
+</p>
 
 ---
 
