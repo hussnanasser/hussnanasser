@@ -119,6 +119,16 @@ Data Engineering. I’d love to connect with others in these fields
 
 ---
 
+## 🎀 My Pink Contribution Garden
+
+<p align="center">
+  <img src="./assets/pink_pixel_heart_demo.gif" width="700" alt="Animated pink pixel heart contribution garden"/>
+</p>
+
+<p align="center">
+  💗 Every pixel tells a story of progress 💗
+</p>
+
 ## 🌸 Contribution Garden
 
 <p align="center">
