@@ -45,57 +45,70 @@ Data Engineering. I’d love to connect with others in these fields
 
 ## 🎀 Technologies I use
 
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/python/FF69B4" width="40" height="40" alt="Python"/><br/>
-    Python
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/react/FF69B4" width="40" height="40" alt="React"/><br/>
-    React
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="40" height="40" alt="Node.js"/><br/>
-    Node.js
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="40" height="40" alt="Pandas"/><br/>
-    Pandas
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="40" height="40" alt="NumPy"/><br/>
-    NumPy
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/git/FF69B4" width="40" height="40" alt="Git"/><br/>
-    Git
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FF69B4" width="40" height="40" alt="GitHub"/><br/>
-    GitHub
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/figma/FF69B4" width="40" height="40" alt="Figma"/><br/>
-    Figma
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="40" height="40" alt="VS Code"/><br/>
-    VS Code
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="40" height="40" alt="MySQL"/><br/>
-    MySQL
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.simpleicons.org/python/FF69B4" width="40" height="40" alt="Python"/><br/>
+        Python
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://react.dev/">
+        <img src="https://cdn.simpleicons.org/react/FF69B4" width="40" height="40" alt="React"/><br/>
+        React
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org/">
+        <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="40" height="40" alt="Node.js"/><br/>
+        Node.js
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="40" height="40" alt="Pandas"/><br/>
+        Pandas
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://numpy.org/">
+        <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="40" height="40" alt="NumPy"/><br/>
+        NumPy
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://git-scm.com/">
+        <img src="https://cdn.simpleicons.org/git/FF69B4" width="40" height="40" alt="Git"/><br/>
+        Git
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://github.com/">
+        <img src="https://cdn.simpleicons.org/github/FF69B4" width="40" height="40" alt="GitHub"/><br/>
+        GitHub
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.figma.com/">
+        <img src="https://cdn.simpleicons.org/figma/FF69B4" width="40" height="40" alt="Figma"/><br/>
+        Figma
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="40" height="40" alt="VS Code"/><br/>
+        VS Code
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com/">
+        <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="40" height="40" alt="MySQL"/><br/>
+        MySQL
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
