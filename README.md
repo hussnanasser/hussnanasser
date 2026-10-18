@@ -64,8 +64,8 @@ fields and learn more about the industry ♡
   &nbsp;
   <img src="https://cdn.simpleicons.org/figma/FF69B4" width="50" alt="Figma"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="50" alt="VS Code"/>
-  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="50" alt="VS Code" /> 
+   &nbsp;
   <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="50" alt="MySQL"/>
 </p>
 
