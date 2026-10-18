@@ -46,23 +46,45 @@ Data Engineering. I’d love to connect with others in these fields
 ## 🎀 Technologies I use
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/FF69B4" width="50" alt="Python"/>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.simpleicons.org/python/FF69B4" width="50" alt="Python"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/react/FF69B4" width="50" alt="React"/>
+  <a href="https://react.dev/" title="React">
+    <img src="https://cdn.simpleicons.org/react/FF69B4" width="50" alt="React"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="50" alt="Node.js"/>
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://cdn.simpleicons.org/nodedotjs/FF69B4" width="50" alt="Node.js"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="50" alt="Pandas"/>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://cdn.simpleicons.org/pandas/FF69B4" width="50" alt="Pandas"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="50" alt="NumPy"/>
+  <a href="https://numpy.org/" title="NumPy">
+    <img src="https://cdn.simpleicons.org/numpy/FF69B4" width="50" alt="NumPy"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/git/FF69B4" width="50" alt="Git"/>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://cdn.simpleicons.org/git/FF69B4" width="50" alt="Git"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/github/FF69B4" width="50" alt="GitHub"/>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FF69B4" width="50" alt="GitHub"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/figma/FF69B4" width="50" alt="Figma"/>
+  <a href="https://www.figma.com/" title="Figma">
+    <img src="https://cdn.simpleicons.org/figma/FF69B4" width="50" alt="Figma"/>
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="50" alt="MySQL"/>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="50" alt="Visual Studio Code"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="50" alt="MySQL"/>
+  </a>
 </p>
 
 ---
