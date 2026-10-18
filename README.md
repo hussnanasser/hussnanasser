@@ -30,10 +30,10 @@
 ## 💗 About Me
 
 ```text
-I’m in my second year at Bournemouth University, currently looking
-for a placement for 2027,particularly in AI, Machine Learning, Data
-Science or Data Engineering. I’d love to connect with others in these
-fields and learn more about the industry ♡
+I’m in my second year at Bournemouth University, currently looking for a
+placement for 2027,particularly in AI, Machine Learning, Data Science or
+Data Engineering. I’d love to connect with others in these fields
+ and learn more about the industry ♡
 ```
 
 - 🌸 Developer and student
@@ -42,8 +42,6 @@ fields and learn more about the industry ♡
 - 💗 Always learning something new
 
 ---
-
-## 🎀 Technologies I use
 
 ## 🎀 Technologies I use
 
@@ -64,8 +62,6 @@ fields and learn more about the industry ♡
   &nbsp;
   <img src="https://cdn.simpleicons.org/figma/FF69B4" width="50" alt="Figma"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="50" alt="VS Code" /> 
-   &nbsp;
   <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="50" alt="MySQL"/>
 </p>
 
