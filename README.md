@@ -96,12 +96,6 @@ Data Engineering. I’d love to connect with others in these fields
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" width="40" height="40" alt="VS Code"/><br/>
-        VS Code
-      </a>
-    </td>
-    <td align="center" width="100">
       <a href="https://www.mysql.com/">
         <img src="https://cdn.simpleicons.org/mysql/FF69B4" width="40" height="40" alt="MySQL"/><br/>
         MySQL
