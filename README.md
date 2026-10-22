@@ -12,9 +12,6 @@
 
 <p>
 
-  <p align="center">
-  <img src="pixel-hearts.svg" alt="Animated pixel hearts" width="100%">
-</p>
 
   <img src="https://img.shields.io/badge/MsciComputerScience-ff69c9?style=flat-square&labelColor=171019"/>
    <img src="https://img.shields.io/badge/ArtificalIntelligence-ff69c9?style=flat-square&labelColor=171019"/>
