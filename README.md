@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/MsciComputerScience-ff69c9?style=flat-square&labelColor=171019"/>
    <img src="https://img.shields.io/badge/ArtificalIntelligence-ff69c9?style=flat-square&labelColor=171019"/>
   <img src="https://img.shields.io/badge/BournemouthUniversity-ff69c9?style=flat-square&labelColor=171019"/>
-  <img src="https://img.shields.io/badge/2nd Year-ff69c9?style=flat-square&labelColor=171019"/>
-  <img src="https://img.shields.io/badge/Student-ff69c9?style=flat-square&labelColor=171019"/>
+  <img src="https://img.shields.io/badge/[💌 email me](mailto:hussnanasser4@gmail.com?subject=Hi%20Hussna)-ff69c9?style=flat-square&labelColor=171019"/>
 <a href="https://www.linkedin.com/in/hussnanasser-cs/">
   <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
 </a>
