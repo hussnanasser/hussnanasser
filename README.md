@@ -1,5 +1,9 @@
 
 <!-- PINK NEON CYBERPUNK PROFILE -->
+<p align="center">
+  <img src="pixel-hearts.svg" alt="Animated pixel hearts" width="100%">
+</p>
+
 
 <div align="center">
 
