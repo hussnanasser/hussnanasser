@@ -38,14 +38,14 @@
 I’m in my second year at Bournemouth University, currently looking for a
 placement for 2027,particularly in AI, Machine Learning, Data Science or
 Data Engineering. I’d love to connect with others in these fields
- and learn more about the industry ♡
+and learn more about the industry ♡
 ```
 
-- 🌸 1st Year Distincion + Letter of Commendation
-- 💻 Python + SQL 
-- 🎀 Interested in AI,ML, Data Science, Software Engineering
-- 💗 Societies: Computer Science, Women in STEM
-- 
+- ♡ Achievement: First-Year Distincion + Letter of Commendation
+- ♡ Skills: Python + SQL 
+- ♡ Interests:  in AI,ML, Data Science, Software Engineering
+- ♡ Societies: Computer Science, Women in STEM
+- ♡ Club: Tennis 
 
 ---
 
