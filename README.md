@@ -41,10 +41,10 @@ Data Engineering. I’d love to connect with others in these fields
  and learn more about the industry ♡
 ```
 
-- 🌸 Developer and student
+- 🌸 1st Year Distincion + Letter of Commendation
 - 💻 Exploring web development and creative coding
-- 🎀 Interested in cute designs and digital experiences
-- 💗 Always learning something new
+- 🎀 Interested in AI and  ML
+- 💗 Societies: Computer Science, Women in STEM
 
 ---
 
