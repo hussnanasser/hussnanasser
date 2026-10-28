@@ -42,9 +42,10 @@ Data Engineering. I’d love to connect with others in these fields
 ```
 
 - 🌸 1st Year Distincion + Letter of Commendation
-- 💻 Exploring web development and creative coding
-- 🎀 Interested in AI and  ML
+- 💻 Python + SQL 
+- 🎀 Interested in AI,ML, Data Science, Software Engineering
 - 💗 Societies: Computer Science, Women in STEM
+- 
 
 ---
 
@@ -111,16 +112,7 @@ Data Engineering. I’d love to connect with others in these fields
 
 ---
 
-## 💖 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hussnanasser&show_icons=true&hide_border=true&bg_color=0d0a10&title_color=ff69c9&icon_color=ff69c9&text_color=f8eaf5" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussnanasser&layout=compact&hide_border=true&bg_color=0d0a10&title_color=ff69c9&text_color=f8eaf5" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=hussnanasser&hide_border=true&background=0d0a10&ring=ff69c9&fire=ff69c9&currStreakLabel=ff69c9&sideLabels=f8eaf5&dates=c9a7bd&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak"/>
-</p>
 
 ---
 
@@ -133,8 +125,6 @@ Data Engineering. I’d love to connect with others in these fields
 <p align="center">
   💗 Every pixel tells a story of progress 💗
 </p>
-
-## 🌸 Contribution Garden
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff69c9/hussnanasser" width="100%" alt="Pink GitHub contribution chart"/>
