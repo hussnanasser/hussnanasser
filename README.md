@@ -43,9 +43,9 @@ and learn more about the industry ♡
 
 - ♡ Achievement: First-Year Distincion + Letter of Commendation
 - ♡ Skills: Python + SQL 
-- ♡ Interests:  in AI,ML, Data Science, Software Engineering
-- ♡ Societies: Computer Science, Women in STEM
-- ♡ Club: Tennis 
+- ♡ Interests:  AI,ML, Data Science, Software Engineering
+- ♡ Societies: Computing & Security, Women in STEM
+- ♡ Sport: Tennis 
 
 ---
 
