@@ -152,7 +152,7 @@ Data Engineering. I’d love to connect with others in these fields
 
 **Coming soon**
 
-Something cute is being built here 💗
+Something ... is being built here 💗
 
 `#web-dev`
 
@@ -198,6 +198,6 @@ Stay tuned for something amazing 💗
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0a10&height=100&section=footer&text=more%20code%20%E2%80%A2%20more%20coffee%20%E2%80%A2%20more%20pink%20%E2%99%A1&fontColor=ff69c9&fontSize=18&animation=fadeIn" width="100%" alt="Pink neon footer"/>
 
-<i>♡ thanks for visiting my little corner of the internet ♡</i>
+<i>♡ thanks for visiting my pink GitHub profile ♡</i>
 
 </div>
