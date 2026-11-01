@@ -141,7 +141,7 @@ and learn more about the industry ♡
 
 **Coming soon**
 
-Something ... is being built here 💗
+ ... is being built here 💗
 
 `#web-dev`
 
