@@ -26,13 +26,12 @@
   </a>
 </p>
 
-<p><i>♡ turning ideas into something remarkable . . . ♡</i></p>
 
 </div>
 
 ---
 
-## 💗 About Me
+## 💗 A bit about Me
 
 ```text
 I’m in my second year at Bournemouth University, currently looking for a
@@ -153,7 +152,7 @@ Something ... is being built here 💗
 
 **Coming soon**
 
-New ideas, new projects, new magic 💗
+... new projects ... 💗
 
 `#creative`
 
