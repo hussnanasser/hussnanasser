@@ -173,19 +173,8 @@ Stay tuned for something amazing 💗
 
 ---
 
-## Currently busy ...
 
-<p align="center">
-  <i>pink + white ♡ Frank Ocean</i>
-  <br/>
-  <img src="https://img.shields.io/badge/mood-coding%20%26%20creating-ff69c9?style=for-the-badge&labelColor=171019"/>
-</p>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0a10&height=100&section=footer&text=more%20code%20%E2%80%A2%20more%20coffee%20%E2%80%A2%20more%20pink%20%E2%99%A1&fontColor=ff69c9&fontSize=18&animation=fadeIn" width="100%" alt="Pink neon footer"/>
 
 <i>♡ thanks for visiting my GitHub profile ♡</i>
 
