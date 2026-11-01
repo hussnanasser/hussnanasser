@@ -31,7 +31,7 @@
 
 ---
 
-## 💗 A bit about Me
+## ♡ A bit about Me ♡
 
 ```text
 I’m in my second year at Bournemouth University, currently looking for a
@@ -173,7 +173,7 @@ Stay tuned for something amazing 💗
 
 ---
 
-## 🎧 Currently Vibing
+## Currently busy ...
 
 <p align="center">
   <i>pink + white ♡ Frank Ocean</i>
@@ -187,6 +187,6 @@ Stay tuned for something amazing 💗
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0a10&height=100&section=footer&text=more%20code%20%E2%80%A2%20more%20coffee%20%E2%80%A2%20more%20pink%20%E2%99%A1&fontColor=ff69c9&fontSize=18&animation=fadeIn" width="100%" alt="Pink neon footer"/>
 
-<i>♡ thanks for visiting my pink GitHub profile ♡</i>
+<i>♡ thanks for visiting my GitHub profile ♡</i>
 
 </div>
