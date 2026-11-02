@@ -14,15 +14,24 @@
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=25&duration=3000&pause=800&color=FF69C9&center=true&vCenter=true&width=650&lines=%E2%99%A5+Hi%2C+I'm+Hussna!+%E2%99%A5;%E2%99%A1+Welcome+to+my+Github+Profile+%E2%99%A1" alt="Typing introduction"/>
 
 
-<p>
+
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/MsciComputerScience-ff69c9?style=flat-square&labelColor=171019" alt="MSci Computer Science"/>
   <img src="https://img.shields.io/badge/ArtificialIntelligence-ff69c9?style=flat-square&labelColor=171019" alt="Artificial Intelligence"/>
   <img src="https://img.shields.io/badge/BournemouthUniversity-ff69c9?style=flat-square&labelColor=171019" alt="Bournemouth University"/>
+
   <a href="mailto:hussnanasser4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff69c9?style=flat-square&logo=gmail&logoColor=white&labelColor=171019" alt="Email me"/>
+    <img src="https://img.shields.io/badge/Email-ff69c9?style=flat-square&logo=gmail&logoColor=white&labelColor=171019" alt="Email"/>
   </a>
+
   <a href="https://www.linkedin.com/in/hussnanasser-cs/">
     <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/hussnanasser">
+    <img src="https://img.shields.io/badge/HackerRank-ff69c9?style=flat-square&logo=hackerrank&logoColor=white&labelColor=171019" alt="HackerRank"/>
   </a>
 </p>
 
