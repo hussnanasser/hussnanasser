@@ -26,9 +26,11 @@
     <img src="https://img.shields.io/badge/Email-ff69c9?style=flat-square&logo=gmail&logoColor=white&labelColor=171019" alt="Email"/>
   </a>
 
+  
   <a href="https://www.linkedin.com/in/hussnanasser-cs/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019&v=2" alt="LinkedIn"/>
   </a>
+
 
   <a href="https://www.hackerrank.com/profile/hussnanasser">
     <img src="https://img.shields.io/badge/HackerRank-ff69c9?style=flat-square&logo=hackerrank&logoColor=white&labelColor=171019" alt="HackerRank"/>
