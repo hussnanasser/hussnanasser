@@ -27,9 +27,11 @@
   </a>
 
   
+ 
   <a href="https://www.linkedin.com/in/hussnanasser-cs/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019&v=2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&labelColor=171019" alt="LinkedIn" />
   </a>
+
 
 
   <a href="https://www.hackerrank.com/profile/hussnanasser">
