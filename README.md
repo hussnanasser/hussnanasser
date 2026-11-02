@@ -30,7 +30,7 @@
  
   
 <a href="https://www.linkedin.com/in/hussnanasser-cs/">
-  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="14" height="14" alt="LinkedIn"/> <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&labelColor=171019" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/linkedin-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
 </a>
 
 
