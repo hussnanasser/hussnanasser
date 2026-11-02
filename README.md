@@ -27,10 +27,11 @@
   </a>
 
   
-<a href="https://www.linkedin.com/in/hussnanasser-cs/" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="32" height="32" alt="LinkedIn" style="vertical-align:middle; background:#171019; padding:5px;"/>
-  <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&labelColor=171019" alt="LinkedIn"/>
+
+<a href="https://www.linkedin.com/in/hussnanasser-cs/">
+  <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&labelColor=171019&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAwIDAgMSAwIDQuMTI0ek0zLjU1NSA5aDMuNTY0djExLjQ1MkgzLjU1NXoiLz48L3N2Zz4=" alt="LinkedIn"/>
 </a>
+
 
 
 
