@@ -27,15 +27,10 @@
   </a>
 
   
- 
-  
-
-
-<a href="https://www.linkedin.com/in/hussnanasser-cs/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&logo=linkedin&logoColor=white&labelColor=171019" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/hussnanasser-cs/" style="text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="32" height="32" alt="LinkedIn" style="vertical-align:middle; background:#171019; padding:5px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-ff69c9?style=flat-square&labelColor=171019" alt="LinkedIn"/>
 </a>
-
-
 
 
 
