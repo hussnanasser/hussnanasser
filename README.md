@@ -62,7 +62,7 @@ and learn more about the industry ♡
 
 ---
 
-## 🎀 Technologies I use
+## 🎀 Technologies I use:
 
 <table align="center">
   <tr>
