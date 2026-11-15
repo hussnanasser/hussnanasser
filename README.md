@@ -177,7 +177,7 @@ and learn more about the industry ♡
 
 **Coming soon**
 
-Stay tuned for something amazing 💗
+Stay tuned ... 💗
 
 `#in-progress`
 
